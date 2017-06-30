@@ -1,6 +1,5 @@
 # QRGenUnity
-Offline QR Code Generator for Unity
-
+Offline QR Code Generator
 
 ## Usage
 ```c#
@@ -14,4 +13,4 @@ void Start () {
 }
 ```
 
-http://zxing.net/　　
+Use this : https://zxingnet.codeplex.com/
